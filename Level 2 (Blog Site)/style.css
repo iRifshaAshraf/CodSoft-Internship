@@ -1,0 +1,28 @@
+body {
+    background-color: #000000b7;
+    overflow-x: hidden;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+header nav{
+    padding: 0 40px;
+}
+main header nav ul{
+    margin-left: auto !important;
+    margin-right: 0;
+}
+main header nav ul li i{
+    background: transparent;
+    color: white !important;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
